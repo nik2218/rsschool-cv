@@ -1,4 +1,3 @@
-
 Nikita Filippov
 =
 ##  [rsschool-cv](https://github.com/nik2218/rsschool-cv)
